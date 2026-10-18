@@ -1,0 +1,6 @@
+QoL:
+    - Refine the approach into a non-hardcoded one
+        + Maybe do something like a format to give a dict of filename regex id and filepath of a file with a healthy header
+
+Functionality:
+    - Ultramangled files are not yet handled. E.g. when multiple jpgs are concatenated on a same file it
